@@ -61,7 +61,7 @@ namespace mltest
                 Separator = ","
             });
 
-            var data = reader.Read("HRFAQ.csv");
+            var data = reader.Read("Datasets/HRFAQ.csv");
 
             var pipeline = mlContext.Transforms.Text.FeaturizeText("Question", "Features")
                 .Append(mlContext.MulticlassClassification.Trainers.StochasticDualCoordinateAscent(label: "Label"));

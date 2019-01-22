@@ -1,0 +1,11 @@
+D:\source\repos\mldotnet\ml.net\bin\Debug\netcoreapp2.1\mltest.deps.json
+D:\source\repos\mldotnet\ml.net\bin\Debug\netcoreapp2.1\mltest.runtimeconfig.json
+D:\source\repos\mldotnet\ml.net\bin\Debug\netcoreapp2.1\mltest.runtimeconfig.dev.json
+D:\source\repos\mldotnet\ml.net\bin\Debug\netcoreapp2.1\mltest.dll
+D:\source\repos\mldotnet\ml.net\bin\Debug\netcoreapp2.1\mltest.pdb
+D:\source\repos\mldotnet\ml.net\obj\Debug\netcoreapp2.1\mltest.csprojAssemblyReference.cache
+D:\source\repos\mldotnet\ml.net\obj\Debug\netcoreapp2.1\mltest.csproj.CoreCompileInputs.cache
+D:\source\repos\mldotnet\ml.net\obj\Debug\netcoreapp2.1\mltest.AssemblyInfoInputs.cache
+D:\source\repos\mldotnet\ml.net\obj\Debug\netcoreapp2.1\mltest.AssemblyInfo.cs
+D:\source\repos\mldotnet\ml.net\obj\Debug\netcoreapp2.1\mltest.dll
+D:\source\repos\mldotnet\ml.net\obj\Debug\netcoreapp2.1\mltest.pdb
